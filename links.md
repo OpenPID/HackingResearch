@@ -1,7 +1,8 @@
 # Research Links
 
 
-[Air quality link](https://airnow.gov/) / 
+[Air quality link](https://airnow.gov/) /
+[Air quality RSS links for multiple locations](http://feeds.enviroflash.info/) /
 [Idaho Fire Info](http://www.idahofireinfo.com/search/label/Eastern) / 
 [Idaho Fire Info Twitter Page](https://twitter.com/Idahofireinfo/lists/idaho-fire-information) /
 [Idaho Fire Info fire restriction hotline] 1-844-433-4737 / 
