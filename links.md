@@ -3,6 +3,7 @@
 
 [Air quality link](https://airnow.gov/) /
 [Air quality RSS links for multiple locations](http://feeds.enviroflash.info/) /
+[Air quality KML](https://files.airnowtech.org/airnow/today/airnow.kml) /
 [Air Quailty Twitter Feed](https://twitter.com/airnow) /
 [Idaho Fire Info](http://www.idahofireinfo.com/search/label/Eastern) / 
 [Idaho Fire Info Twitter Page](https://twitter.com/Idahofireinfo/lists/idaho-fire-information) /
