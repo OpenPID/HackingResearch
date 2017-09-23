@@ -11,7 +11,7 @@
 * [RSS feed - inciweb articles](https://inciweb.nwcg.gov/feeds/rss/articles/)
 * [inciweb KML](https://inciweb.nwcg.gov/feeds/maps/)
 * [inciweb Twitter](https://twitter.com/inciweb)
-* [Wildfire prevention Red Cross](http://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/wildfire/* how-to-prevent-wildfires)
-* [Fire levels and what they mean](https://www.fs.usda.gov/detail/inyo/home/?cid=stelprdb5173311) * 
+* [Wildfire prevention Red Cross](http://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/wildfire/how-to-prevent-wildfires)
+* [Fire levels and what they mean](https://www.fs.usda.gov/detail/inyo/home/?cid=stelprdb5173311)
 * [Wildfire KML files](https://rmgsc.cr.usgs.gov/outgoing/GeoMAC/) 
 * [Idaho Fire Info RSS Feed](http://www.idahofireinfo.com/feeds/posts/default)
